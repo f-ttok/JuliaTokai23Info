@@ -55,7 +55,7 @@ Note:
 ## 本日の発表
 
 + antimon2: JuliaでApp(仮)
-+ Kgm1500: TBA
++ Kgm1500: 複素関数を見て楽しもう
 + ごまふあざらし: JuliaCon2025 行ってきたよ
 
 ---
